@@ -142,7 +142,7 @@ def get_sht_path(G, ids, sol_list):
             path.append(p)
        # path = sum(path,[])
         route.append(path)    
-        osm_route(G, route[i], i)
+        #osm_route(G, route[i], i)
         
     #노드번호로 구성된 path를 좌표값으로 변경     
     for i in range(0, veh_num):
