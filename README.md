@@ -5,7 +5,7 @@
 python manage.py
 
 ## 경로 좌푯값 확인
-
+http://127.0.0.1:8000/route/
 
 ## 개발 환경
 ubuntu 18.04 /
