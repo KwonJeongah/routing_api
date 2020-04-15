@@ -6,10 +6,11 @@ python manage.py
 
 ## 개발 환경
 ubuntu 18.04 /
-python3 /
+python3.7 /
+sqlite
 
 ## 기술 스택
-Django
+osmnx, ortools, haversine, Django
 
 # 설치
 anaconda /
