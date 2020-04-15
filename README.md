@@ -4,10 +4,13 @@
 ## 서버 실행
 python manage.py
 
+## 경로 좌푯값 확인
+
+
 ## 개발 환경
 ubuntu 18.04 /
 python3.7 /
-sqlite
+sqlite3
 
 ## 기술 스택
 osmnx, ortools, haversine, Django
