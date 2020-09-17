@@ -12,10 +12,10 @@
 ## 빌드 및 실행하기    
 **터미널 환경** 
     + Git, Python, Django는 설치되어 있다고 가정
-'''    
-  $ git clone https://github.com/dsalice/routing_api.git
+ ```  
+  $ git clone https://github.com/dsalice/routing_api.git    
   $ python manage.py
-'''
+```
 
 **접속 Base URL** http://localhost:8000 
 
